@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "nunito";
+}
+
+
+:root {
+    --lightblue : rgb(6,163,218);
+    --white : rgb(255,255,255);
+    --pale : rgb(238,249,255); 
+}
+

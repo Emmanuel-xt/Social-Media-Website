@@ -1,0 +1,8 @@
+.feedbar{
+    flex: 5.5;
+    border: 1px solid var(--lightblue);
+    
+}
+.feedWrapper{
+    padding: 20px;
+}
