@@ -6,3 +6,26 @@
 .feedWrapper{
     padding: 20px;
 }
+
+.arrowR{
+    display: none;
+}
+.disv{
+    display: none;
+}
+.sideNav{
+    display: block;
+}
+
+@media (max-width:851px) {
+    .show{
+        display: none;
+    }
+    .arrowR{
+        display: none;
+    }
+    .displayS{
+        display: none;
+    }
+
+}

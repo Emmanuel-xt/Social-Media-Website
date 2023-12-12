@@ -6,6 +6,11 @@
     position: sticky;
     top: 50px;
 }
+@media (max-width:850px) {
+    .sidebar{
+        display: none;
+    }
+}
 ::-webkit-scrollbar{
     width: 5px;
 }

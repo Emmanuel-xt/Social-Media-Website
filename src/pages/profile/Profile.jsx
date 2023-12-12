@@ -11,7 +11,6 @@ import ProfileInfo from "../../components/profileInfo/ProfileInfo";
 const Profile = () => {
   return (
     <>
-      <Topbar />
       <div className="profile">
         <Sidebar />
         <div className="profileRight">
