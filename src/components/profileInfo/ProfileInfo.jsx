@@ -49,31 +49,31 @@ const ProfileInfo = () => {
 
         <div className="aboutFollowing">
           <img src={man4} alt="" className="aboutFollowingImg" />
-          <span className="aboutFollowingName">ArinzeChukwu Okeke</span>
+          <span className="aboutFollowingName">Pius Chikaodili</span>
         </div>
 
         <div className="aboutFollowing">
           <img src={man4} alt="" className="aboutFollowingImg" />
-          <span className="aboutFollowingName">ArinzeChukwu Okeke</span>
+          <span className="aboutFollowingName">Nkili Jenifer</span>
         </div>
         <div className="aboutFollowing">
           <img src={man4} alt="" className="aboutFollowingImg" />
-          <span className="aboutFollowingName">ArinzeChukwu Okeke</span>
-        </div>
-
-        <div className="aboutFollowing">
-          <img src={man4} alt="" className="aboutFollowingImg" />
-          <span className="aboutFollowingName">ArinzeChukwu Okeke</span>
+          <span className="aboutFollowingName">Peter Otumba</span>
         </div>
 
         <div className="aboutFollowing">
           <img src={man4} alt="" className="aboutFollowingImg" />
-          <span className="aboutFollowingName">ArinzeChukwu Okeke</span>
+          <span className="aboutFollowingName">Jidekene Miracle</span>
         </div>
 
         <div className="aboutFollowing">
           <img src={man4} alt="" className="aboutFollowingImg" />
-          <span className="aboutFollowingName">ArinzeChukwu Okeke</span>
+          <span className="aboutFollowingName">Ojoh Buchi</span>
+        </div>
+
+        <div className="aboutFollowing">
+          <img src={man4} alt="" className="aboutFollowingImg" />
+          <span className="aboutFollowingName">Emmanuel Ekene</span>
         </div>
       </div>
     </>

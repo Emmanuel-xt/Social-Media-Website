@@ -5,7 +5,7 @@ import Feedbar from "../../components/feed/Feed";
 import Rightbar from "../../components/rightbar/Rightbar";
 import "./profile.css";
 import userImg from "../../assets/profilePictures/userImg.jpg";
-import userCover from "../../assets/profilePictures/UserCover.jpg";
+import userCover from "../../assets/profilePictures/userCover.jpg";
 import ProfileInfo from "../../components/profileInfo/ProfileInfo";
 
 const Profile = () => {
