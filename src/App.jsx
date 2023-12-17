@@ -10,11 +10,14 @@ function App() {
 
   return (
     <>
+    <section className='orange'>
+
    <Topbar />
    <Routes>
     <Route path='/' element={<Home />} />
     <Route path='/profile' element={<Profile />} />
    </Routes>      
+    </section>
     </>
   )
 }
